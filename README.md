@@ -5,6 +5,9 @@
 
 ---
 
+<img width="360" height="360" alt="brainct_001" src="https://github.com/user-attachments/assets/64c461e8-e8b4-4c2b-9b7d-45248e8c6849" />
+
+
 ### 문서 관리 정보
 - 문서 ID: BMP-DO178C-001  
 - 버전: 1.0 (2025년 8월 28일)  
