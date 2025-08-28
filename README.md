@@ -94,7 +94,16 @@
 
 ### 3.1 아키텍처 설계
 모듈 구조:
-
+~~~
+BMP__Processor
+├─── File_Handler
+│  ├─── Input_Validator
+│  └─── Output_Generator
+├─── Image_Processor
+│  ├─── Color__Converter
+│  └─── Memory__Manager
+└─── Error_Handler
+~~~
 
 ### 3.2 상세 설계
 구조체 정의:
